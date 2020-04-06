@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NoPPv3.unity
+    guid: d6f3176e7473645e085ab144982a1315
+  - enabled: 0
+    path: Assets/Scenes/Bloom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ChromaticAberration.unity
+    guid: 5bc51e57074c4491ba40bcd7c4eacae5
+  - enabled: 0
+    path: Assets/Scenes/ChannelMixer.unity
+    guid: 8088947a758ed4a84b1cb56f01e07937
+  - enabled: 0
+    path: Assets/Scenes/ColorAdjustments.unity
+    guid: 1375d6f50450547a794dc0ed9707b958
+  - enabled: 0
+    path: Assets/Scenes/ColorCurves.unity
+    guid: dc1ab084457f24f259d75da4607ce208
+  - enabled: 0
+    path: Assets/Scenes/DepgthOfField.unity
+    guid: 96b0ac87f34624a318b70269a561b3ae
+  - enabled: 0
+    path: Assets/Scenes/FilmGrain.unity
+    guid: cb38ea71c63434d5bb6cf705992b2ff2
+  - enabled: 0
+    path: Assets/Scenes/LensDitortion.unity
+    guid: 080f0dd83091b459485d22aa6f4e232c
+  - enabled: 0
+    path: Assets/Scenes/LiftGammaGain.unity
+    guid: 64865f76b9ac8413f9ad27c391ead69f
+  - enabled: 0
+    path: Assets/Scenes/PaniniProjection.unity
+    guid: 7198315949eca436e9a027665d7a4122
+  - enabled: 0
+    path: Assets/Scenes/ShadowsMidtonesHighlights.unity
+    guid: 76214943d10ce44408a4ee4f25a30341
+  - enabled: 0
+    path: Assets/Scenes/SplitToning.unity
+    guid: 354bcae5db12d492e8463064fcf2222f
+  - enabled: 0
+    path: Assets/Scenes/Tonemapping.unity
+    guid: cc9fd1cf722a741c89eefeab29f9d82f
+  - enabled: 0
+    path: Assets/Scenes/Vignette.unity
+    guid: 80cc73c5009524e4786ddbf8123a42a1
+  - enabled: 0
+    path: Assets/Scenes/WhiteBalance.unity
+    guid: 6016486987edd4f3b897ee5711fc0504
+  m_configObjects: {}
