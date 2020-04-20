@@ -30,18 +30,18 @@ MonoBehaviour:
   m_AdvancedMode: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {r: 0.5719117, g: 0.7746665, b: 0.7924528, a: 1}
+    m_Value: {r: 0.57254905, g: 0.69236803, b: 0.7921569, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   highlights:
     m_OverrideState: 1
-    m_Value: {r: 0.04561232, g: 0.22034346, b: 0.23584908, a: 1}
+    m_Value: {r: 0.04705882, g: 0.06994166, b: 0.23529412, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
   balance:
     m_OverrideState: 1
-    m_Value: -55
+    m_Value: 10.4
     min: -100
     max: 100
