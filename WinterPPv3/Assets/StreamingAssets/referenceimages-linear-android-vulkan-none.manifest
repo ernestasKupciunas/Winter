@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1997372052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f03ff07a2f9af06cfb3780263c8e7511
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/LensDitortion.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/Vignette.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.expected.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WidthDifferentSizeImages_ThrowsAssertionException.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/DepgthOfField.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/WhiteBalance.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/Tonemapping.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/ChromaticAberration.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/FilmGrain.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/ColorCurves.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/PaniniProjection.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/SplitToning.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.diff.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/Bloom.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/MixedPP.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.diff.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.expected.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/ChannelMixer.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/ColorAdjustments.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/LiftGammaGain.png
+- Assets/ReferenceImages/Linear/Android/Vulkan/None/ShadowsMidtonesHighlights.png
+Dependencies: []

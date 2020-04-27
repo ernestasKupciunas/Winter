@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2360794500
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: referenceimages-linear-android-vulkan-none
+      Dependencies: {}
